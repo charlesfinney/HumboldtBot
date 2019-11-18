@@ -17,8 +17,9 @@ https://youtu.be/pyL9g1IK8ww
   1. $$Phi 1.618 = 4.38cm, 7.08cm, 11.46cm, 18.54cm, 30cm
   1. Design Envelop = 30cm x 11.46cm
   1. Centerpoint @ 15cm x 5.73
-  
-## 1. Solidworks Equasions 
+## 2. Preliminary Sketch 
+  1. https://wiki.ezvid.com/best-graph-papers
+## 3. Solidworks Equasions 
   1. https://youtu.be/Xx-VWpV6oCc
   
 
