@@ -6,6 +6,8 @@
      https://youtu.be/ldDF_4bifu4
   1. SOLIDWORKS - Settings for Maximizing Performance
      https://youtu.be/narFIJcpKsU
+1. Mastering the SolidWorks Ch 12 - How to set Default "Sketch" Settings
+https://youtu.be/pyL9g1IK8ww
 1. Setup SolidWorks like for exam
    https://youtu.be/Qxbz_Z7GACA
 
