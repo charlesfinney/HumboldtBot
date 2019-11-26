@@ -1,6 +1,6 @@
-# HumboltBot robot
+# HumboldtBot robot
 
-## 0. Prerequisities
+## 0. Prerequisites
 1. Optimize system for SolidWorks
   1. Optimize Windows Settings for SolidWorks Performance
      https://youtu.be/ldDF_4bifu4
@@ -11,7 +11,7 @@ https://youtu.be/pyL9g1IK8ww
 1. Setup SolidWorks like for exam
    https://youtu.be/Qxbz_Z7GACA
 
-## 1. Determin Design Envelop
+## 1. Determine Design Envelop
   1. Fixed dimentions = metal frame= x, stepper moter, wheel, driving wheel, 3M hex bolt.  
   1. Primarch Dimention = wheel or stepper moter 
   1. $$Phi 1.618 = 4.38cm, 7.08cm, 11.46cm, 18.54cm, 30cm
