@@ -1,4 +1,4 @@
-# HumboltBot
+# HumboltBot robot
 
 ## 0. Prerequisities
 1. Optimize system for SolidWorks
