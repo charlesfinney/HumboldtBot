@@ -10,6 +10,9 @@
 https://youtu.be/pyL9g1IK8ww
 1. Setup SolidWorks like for exam
    https://youtu.be/Qxbz_Z7GACA
+1. 12½ Tips to Pass the NEW CSWP
+https://youtu.be/FAvE7JsO63g
+
 
 ## 1. Determine Design Envelop
   1. Fixed dimentions = metal frame= x, stepper moter, wheel, driving wheel, 3M hex bolt.  
